@@ -41,4 +41,4 @@ The dataset used in this project was sourced from Netflix’s public content dat
 ---
 
 ## Dashboard Preview  
-![Netflix Dashboard](Netflix_Dashboard.PNG)
+![Netflix Dashboard](Netflix-Dashboard.PNG)
