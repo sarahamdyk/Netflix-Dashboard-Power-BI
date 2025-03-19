@@ -34,11 +34,11 @@ The dataset used in this project was sourced from Netflix’s public content dat
 ---
 
 ## How to Use This Dashboard  
-1. Download the .pbix file from the repository.  
+1. Download the ![Netflix Dashboard](Netflix-Dashboard.pbix) file from the repository.  
 2. Open it using Power BI Desktop.  
 3. Interact with slicers and filters to explore different dimensions of the data.  
 
 ---
 
 ## Dashboard Preview  
-![Netflix Dashboard](Netflix Dashboard.PNG)
+![Netflix Dashboard](Netflix_Dashboard.PNG)
